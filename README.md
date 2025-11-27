@@ -5,7 +5,7 @@
 - 🔭 I recently collected some interactive implicit on [this](https://schmahl.xyz/) site if you are interested.
 - 👯 I am open to collaborations, freelance work and engineering roles.
 
-📫 Reach out to me and get to know me better via [linkedin](https://www.linkedin.com/in/maximilian-schmahl) or via my [website](https://schmahl.xyz/about.html)
+📫 Reach out via [linkedin](https://www.linkedin.com/in/maximilian-schmahl) or via my [website](https://schmahl.xyz/about.html). You find more about me in there too.
 
 <!--
 Here are some ideas to get you started:
