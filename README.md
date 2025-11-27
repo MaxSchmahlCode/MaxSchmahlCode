@@ -2,7 +2,7 @@
 <!-- Engineering × Computational Design × Additive Manufacturing -->
 - 📚 I have a background in CAD/CAM, FEM, Python, Optimization & Machining.
 - 🔭 I like to experiment  on [this](https://schmahl.xyz/) site.
-- 👯 I am open to collaborations, freelance work and engineering roles.
+- 👯 I am open to collaborations, freelance work and engineering roles.<br>
 📫 Reach out to me and get to know me better via [linkedin](https://www.linkedin.com/in/maximilian-schmahl) or via my [website](https://schmahl.xyz/about.html)
 
 <!--
