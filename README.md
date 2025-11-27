@@ -2,7 +2,7 @@
 <!-- Engineering × Computational Design × Additive Manufacturing -->
 
 - 📚 I have a background in CAD/CAM, FEM, Programming and Optimization.
-- 🔭 I recently collected some interactive implicit on [this](https://schmahl.xyz/) site if you are interested.
+- 🔭 I recently collected some interactive implicits on [this](https://schmahl.xyz/) site if you are interested.
 - 👯 I am open to collaborations, freelance work and engineering roles.
 
 📫 Reach out via [linkedin](https://www.linkedin.com/in/maximilian-schmahl) or via my [website](https://schmahl.xyz/about.html). You find more about me in there too.
